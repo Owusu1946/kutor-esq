@@ -6,10 +6,10 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const images = [
-    "/hero-gallery/photo_1_2026-02-16_16-05-00.jpg",
-    "/hero-gallery/photo_2_2026-02-16_16-05-00.jpg",
-    "/hero-gallery/photo_3_2026-02-16_16-05-00.jpg",
-    "/hero-gallery/photo_4_2026-02-16_16-05-00.jpg",
+    "/hero-gallery/photo_1_2026-07-25_18-26-51.jpg",
+    "/hero-gallery/photo_2_2026-07-25_18-26-51.jpg",
+    "/hero-gallery/photo_3_2026-07-25_18-26-51.jpg",
+    "/hero-gallery/photo_4_2026-07-25_18-26-51.jpg",
 ];
 
 export function HeroGallery() {
