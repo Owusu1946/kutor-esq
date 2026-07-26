@@ -93,7 +93,7 @@ export function Hero() {
                                         className="group relative px-8 py-4 sm:px-10 sm:py-4 bg-red-600 hover:bg-red-500 text-white rounded-full text-lg font-medium tracking-wide shadow-xl hover:shadow-2xl transition-all cursor-pointer overflow-hidden text-center"
                                     >
                                         <div className="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity" />
-                                        NDC Elections 2026
+                                        NDC ELECTIONS 2026
                                     </motion.a>
                                 </Link>
                             </motion.div>
