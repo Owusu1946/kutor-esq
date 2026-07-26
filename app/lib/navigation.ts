@@ -58,7 +58,7 @@ export const NAV_ITEMS = [
         icon: Landmark
     },
     {
-        label: "NDC Election 2026",
+        label: "NDC Elections 2026",
         href: "/ndc-election-2026",
         icon: Flame
     },
